@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alameer\\source\\repos\\apis11od\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4178D03D-39EB-41F6-9168-C897900BB888}|apis11od.csproj|c:\\users\\alameer\\source\\repos\\apis11od\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4178D03D-39EB-41F6-9168-C897900BB888}|apis11od.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4178D03D-39EB-41F6-9168-C897900BB888}|apis11od.csproj|c:\\users\\alameer\\source\\repos\\apis11od\\controllers\\lastapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4178D03D-39EB-41F6-9168-C897900BB888}|apis11od.csproj|solutionrelative:controllers\\lastapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4178D03D-39EB-41F6-9168-C897900BB888}|apis11od.csproj|c:\\users\\alameer\\source\\repos\\apis11od\\apis11od.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4178D03D-39EB-41F6-9168-C897900BB888}|apis11od.csproj|solutionrelative:apis11od.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4178D03D-39EB-41F6-9168-C897900BB888}|apis11od.csproj|c:\\users\\alameer\\source\\repos\\apis11od\\apis11od.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4178D03D-39EB-41F6-9168-C897900BB888}|apis11od.csproj|solutionrelative:apis11od.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "apis11od.http",
+              "DocumentMoniker": "C:\\Users\\alameer\\source\\repos\\apis11od\\apis11od.http",
+              "RelativeDocumentMoniker": "apis11od.http",
+              "ToolTip": "C:\\Users\\alameer\\source\\repos\\apis11od\\apis11od.http",
+              "RelativeToolTip": "apis11od.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-03T01:02:56.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "apis11od.csproj",
+              "DocumentMoniker": "C:\\Users\\alameer\\source\\repos\\apis11od\\apis11od.csproj",
+              "RelativeDocumentMoniker": "apis11od.csproj",
+              "ToolTip": "C:\\Users\\alameer\\source\\repos\\apis11od\\apis11od.csproj",
+              "RelativeToolTip": "apis11od.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T01:02:26.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alameer\\source\\repos\\apis11od\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alameer\\source\\repos\\apis11od\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:48:45.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lastApiController.cs",
+              "DocumentMoniker": "C:\\Users\\alameer\\source\\repos\\apis11od\\Controllers\\lastApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\lastApiController.cs",
+              "ToolTip": "C:\\Users\\alameer\\source\\repos\\apis11od\\Controllers\\lastApiController.cs",
+              "RelativeToolTip": "Controllers\\lastApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:44:12.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
